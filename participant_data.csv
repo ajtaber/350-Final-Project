@@ -1,0 +1,142 @@
+,wid,agegroup,gender,hand,thirdgrade_usa,thirdgrade_usa_region,s1_dae,s1_time,s2_dae,s2_time,s3_dae,s3_time
+0,5,18-24,male,right,True,midwest,0,latemorning,21,earlyafternoon,42,latemorning
+1,133,25-40,female,right,True,west,0,latemorning,31,earlyafternoon,77,earlymorning
+2,62,41-60,female,right,True,midwest,0,lateevening,54,latemorning,98,earlyevening
+3,87,41-60,female,right,True,midwest,0,earlyafternoon,27,latemorning,50,earlymorning
+4,261,25-40,Male,Right,True,Midwest,0,Early Morning,27,Early Evening,62,Early Afternoon
+5,175,18-24,Female,Left,True,Midwest,0,Late Evening,78,Late Morning,99,Late Morning
+6,122,18-24,female,right,True,midwest,0,earlyafternoon,40,earlyafternoon,86,lateevening
+7,29,41-60,female,right,True,midwest,0,earlymorning,47,lateevening,97,earlymorning
+8,70,25-40,male,right,True,midwest,0,earlyafternoon,21,earlyafternoon,58,latemorning
+9,284,25-40,Female,Right,True,Midwest,0,Late Morning,24,Early Afternoon,49,Early Afternoon
+10,43,41-60,male,right,True,midwest,0,earlymorning,70,earlyafternoon,93,earlymorning
+11,82,41-60,male,right,True,midwest,0,lateafternoon,32,earlyafternoon,82,lateafternoon
+12,314,18-24,Female,Right,True,Midwest,0,Early Afternoon,35,Early Afternoon,84,Late Evening
+13,138,25-40,female,right,True,midwest,0,earlyafternoon,21,earlyafternoon,42,latemorning
+14,11,18-24,male,right,True,midwest,0,earlyafternoon,21,earlyafternoon,58,latemorning
+15,130,25-40,male,left,True,south,0,earlyafternoon,21,earlyafternoon,58,latemorning
+16,142,25-40,female,right,True,midwest,0,latemorning,46,latemorning,79,earlyevening
+17,33,41-60,female,right,True,midwest,0,earlyafternoon,34,earlymorning,83,earlyevening
+18,249,25-40,Female,Right,True,Midwest,0,Late Afternoon,21,Late Afternoon,135,Early Evening
+19,147,41-60,female,right,True,midwest,0,earlyafternoon,26,earlyafternoon,50,latemorning
+20,86,41-60,female,right,True,midwest,0,lateevening,37,lateevening,72,lateevening
+21,246,18-24,Female,Right,True,Midwest,0,Late Morning,22,Late Afternoon,84,Late Morning
+22,95,41-60,female,right,True,midwest,0,lateevening,36,lateevening,95,lateafternoon
+23,2,41-60,male,right,True,midwest,0,latemorning,53,latemorning,98,earlyafternoon
+24,4,18-24,female,ambidextrous,True,,0,latemorning,21,earlyafternoon,44,earlymorning
+25,71,25-40,male,right,True,south,0,earlyafternoon,21,earlyafternoon,58,latemorning
+26,94,41-60,female,right,True,south,0,lateevening,44,lateevening,79,earlyevening
+27,58,18-24,Female,Right,True,Midwest,0,Late Evening,72,Early Afternoon,101,Early Afternoon
+28,135,25-40,female,right,False,,0,earlyafternoon,35,earlymorning,84,earlyafternoon
+29,157,18-24,Male,Right,True,Midwest,0,Early Evening,25,Early Afternoon,58,Evening
+30,26,18-24,male,right,True,midwest,0,latemorning,21,latemorning,45,earlyafternoon
+31,201,25-40,Female,Right,True,West,0,Late Afternoon,40,Early Afternoon,107,Early Morning
+32,66,18-24,male,right,True,midwest,0,earlyevening,42,lateevening,82,earlyevening
+33,69,18-24,female,left,True,midwest,0,earlyafternoon,38,lateevening,61,latemorning
+34,77,25-40,male,right,False,,0,lateevening,35,earlyafternoon,69,lateevening
+35,242,41-60,Female,Right,False,,0,Late Afternoon,29,Late Afternoon,129,Late Afternoon
+36,200,18-24,Female,Right,True,West,0,Late Morning,89,Late Afternoon,183,Early Afternoon
+37,23,25-40,female,left,True,midwest,0,earlyafternoon,35,earlymorning,64,latemorning
+38,3,25-40,female,right,True,midwest,0,earlyafternoon,21,earlyafternoon,47,earlyafternoon
+39,149,41-60,male,right,False,,0,earlyevening,21,lateevening,46,latemorning
+40,129,41-60,female,right,True,midwest,0,lateafternoon,34,lateafternoon,66,lateafternoon
+41,80,61+,female,right,True,midwest,0,lateafternoon,41,earlyevening,80,lateafternoon
+42,180,61+,Female,Right,True,Midwest,0,Late Morning,28,Late Morning,66,Late Morning
+43,24,18-24,female,right,True,midwest,0,lateafternoon,29,latemorning,59,latemorning
+44,18,61+,female,right,True,midwest,0,earlyevening,38,lateafternoon,61,latemorning
+45,154,61+,male,right,True,midwest,0,lateevening,44,lateevening,79,earlyevening
+46,137,25-40,female,right,True,south,0,earlyafternoon,41,earlymorning,78,earlyafternoon
+47,123,18-24,male,right,True,south,0,latemorning,21,earlyafternoon,42,earlyafternoon
+48,182,41-60,Male,Right,False,,0,Late Evening,93,Early Afternoon,132,Early Morning
+49,302,18-24,Male,Right,True,Midwest,0,Early Afternoon,60,Late Afternoon,107,Late Evening
+50,155,41-60,male,right,True,midwest,0,lateevening,36,lateevening,99,lateevening
+51,92,41-60,female,right,True,midwest,0,earlyafternoon,35,earlymorning,67,latemorning
+52,282,18-24,Male,Right,True,Midwest,0,Late Evening,27,Late Evening,49,Late Evening
+53,27,41-60,female,right,True,midwest,0,earlyafternoon,22,earlyafternoon,49,latemorning
+54,128,18-24,female,right,True,,0,earlyafternoon,40,earlyafternoon,71,latemorning
+55,342,18-24,Male,Right,True,Midwest,0,Early Evening,22,Late Morning,44,Late Afternoon
+56,34,25-40,female,right,True,midwest,0,earlymorning,28,lateafternoon,50,lateafternoon
+57,254,18-24,Female,Right,True,Midwest,0,Early Afternoon,35,Early Afternoon,84,Late Evening
+58,263,25-40,Female,Right,False,,0,Late Morning,30,Early Afternoon,100,Early Evening
+59,134,25-40,male,right,True,west,0,earlyafternoon,26,earlyevening,89,lateevening
+60,9,18-24,female,right,True,midwest,0,earlyafternoon,40,earlyafternoon,87,lateevening
+61,204,18-24,Female,Right,True,Midwest,0,Early Afternoon,38,Late Morning,91,Early Afternoon
+62,308,18-24,Female,Right,True,Midwest,0,Late Evening,70,Early Evening,95,Late Afternoon
+63,148,25-40,male,right,False,,0,earlyafternoon,23,earlyafternoon,51,earlyafternoon
+64,76,41-60,female,right,True,south,0,lateevening,32,lateevening,67,lateevening
+65,10,18-24,female,right,True,midwest,0,earlyafternoon,21,earlyafternoon,58,latemorning
+66,264,41-60,Female,Right,True,South,0,Early Morning,28,Early Afternoon,66,Late Afternoon
+67,1,25-40,female,right,True,midwest,0,earlyafternoon,26,latemorning,47,earlyafternoon
+68,22,25-40,female,right,False,,0,earlymorning,34,lateevening,71,earlyafternoon
+69,203,25-40,Female,Right,False,,0,Early Afternoon,60,Late Morning,129,Late Afternoon
+70,25,41-60,male,left,True,midwest,0,earlyevening,35,latemorning,82,lateevening
+71,38,41-60,female,left,True,midwest,0,lateafternoon,23,lateevening,54,earlymorning
+72,224,41-60,Female,Right,True,Midwest,0,Early Evening,31,Early Evening,54,Late Morning
+73,16,18-24,female,right,True,midwest,0,latemorning,21,earlymorning,42,earlymorning
+74,262,25-40,Female,Right,False,,0,Late Afternoon,33,Late Afternoon,104,Late Afternoon
+75,35,41-60,female,right,False,,0,lateevening,24,latemorning,64,earlyevening
+76,13,61+,female,right,False,,0,lateevening,32,earlyevening,59,earlyafternoon
+77,312,18-24,Female,Right,True,Midwest,0,Late Morning,57,Early Morning,127,Late Evening
+78,64,18-24,female,right,True,south,0,latemorning,21,earlyafternoon,42,earlyafternoon
+79,186,41-60,Male,Left,True,Midwest,0,Early Evening,42,Late Afternoon,83,Late Evening
+80,315,18-24,Female,Right,True,Northeast,0,Early Afternoon,35,Late Afternoon,93,Late Evening
+81,255,18-24,Female,Right,True,Midwest,0,Early Afternoon,35,Late Evening,97,Late Evening
+82,320,41-60,Female,Right,True,Northeast,0,Late Afternoon,97,Early Morning,200,Late Evening
+83,17,25-40,male,right,False,,0,lateevening,30,lateevening,74,lateevening
+84,153,41-60,male,right,True,midwest,0,earlymorning,21,latemorning,53,earlyafternoon
+85,83,25-40,female,right,True,midwest,0,lateafternoon,29,latemorning,61,lateafternoon
+86,322,25-40,Female,Right,True,West,0,Late Morning,70,Late Morning,148,Early Morning
+87,63,18-24,female,left,True,midwest,0,earlyafternoon,21,earlyafternoon,47,earlyafternoon
+88,20,61+,female,right,True,midwest,0,lateafternoon,41,earlyevening,80,earlyevening
+89,36,18-24,female,right,True,midwest,0,lateevening,36,lateevening,95,lateafternoon
+90,152,18-24,male,right,True,midwest,0,earlymorning,21,earlyafternoon,52,latemorning
+91,126,18-24,female,right,True,midwest,0,earlyevening,42,lateevening,82,earlyevening
+92,304,41-60,Male,Right,True,Midwest,0,Early Evening,71,Early Evening,194,Late Morning
+93,102,25-40,Female,Right,True,Northeast,0,Early Evening,97,Late Evening,130,Early Evening
+94,245,18-24,Female,Right,True,Midwest,0,Late Afternoon,48,Late Afternoon,87,Late Afternoon
+95,139,61+,male,right,True,west,0,lateafternoon,41,earlymorning,80,lateafternoon
+96,78,61+,male,right,True,midwest,0,earlyafternoon,39,lateafternoon,62,latemorning
+97,89,25-40,male,right,True,midwest,0,lateevening,44,latemorning,73,earlyafternoon
+98,30,18-24,male,right,True,midwest,0,,23,latemorning,54,lateafternoon
+99,151,18-24,female,right,True,midwest,0,lateevening,23,lateevening,44,lateevening
+100,73,61+,male,right,False,,0,lateevening,32,earlyevening,59,earlyafternoon
+101,131,25-40,female,right,True,south,0,earlyafternoon,21,earlyafternoon,58,latemorning
+102,184,18-24,Female,Left,True,Midwest,0,Early Morning,30,Late Evening,200,Late Afternoon
+103,121,25-40,female,right,False,,0,earlyafternoon,21,earlyafternoon,47,lateafternoon
+104,74,25-40,male,left,True,midwest,0,earlyafternoon,23,earlymorning,49,latemorning
+105,6,18-24,male,right,True,midwest,0,earlyevening,42,lateevening,82,earlyevening
+106,85,25-40,male,right,True,midwest,0,earlyevening,27,lateafternoon,59,lateevening
+107,88,18-24,male,right,False,,0,earlyafternoon,28,earlyafternoon,53,earlyafternoon
+108,288,18-24,Female,Right,True,Midwest,0,Early Evening,20,Early Evening,41,Early Evening
+109,319,25-40,Female,Right,True,West,0,Early Afternoon,34,Early Morning,72,Early Morning
+110,75,61+,female,right,True,midwest,0,latemorning,29,earlymorning,82,earlyafternoon
+111,280,41-60,Female,Right,True,Midwest,0,Early Afternoon,28,Early Morning,53,Late Afternoon
+112,160,18-24,Male,Right,True,Midwest,0,Early Evening,102,Late Morning,139,Late Afternoon
+113,156,18-24,male,right,True,midwest,0,lateevening,36,lateevening,99,lateevening
+114,12,18-24,male,right,True,northeast,0,earlyafternoon,21,earlyafternoon,58,latemorning
+115,93,41-60,male,right,True,midwest,0,latemorning,39,lateevening,72,lateevening
+116,32,18-24,male,right,True,midwest,0,earlyevening,23,lateafternoon,50,earlyafternoon
+117,301,41-60,Female,Right,False,,0,Early Evening,78,Early Afternoon,137,Late Evening
+118,124,18-24,female,left,True,midwest,0,earlyevening,24,earlyafternoon,52,lateevening
+119,49,41-60,Female,Right,True,Northeast,0,Early Afternoon,41,Early Afternoon,77,Early Afternoon
+120,279,41-60,Female,Right,True,Midwest,0,Early Afternoon,43,Late Morning,66,Early Afternoon
+121,306,25-40,Male,Right,True,Midwest,0,Early Afternoon,132,Early Evening,151,Late Morning
+122,91,41-60,female,right,True,midwest,0,lateevening,22,lateafternoon,43,lateevening
+123,305,41-60,Female,Right,True,Midwest,0,Early Evening,48,Late Afternoon,86,Late Afternoon
+124,177,18-24,Female,Right,True,Midwest,0,Early Evening,70,Early Afternoon,94,Late Morning
+125,136,41-60,female,left,True,midwest,0,earlyafternoon,34,earlymorning,67,earlymorning
+126,260,41-60,Female,Right,True,Northeast,0,Early Evening,55,Late Morning,108,Late Morning
+127,15,41-60,female,right,True,midwest,0,lateevening,39,earlymorning,78,lateafternoon
+128,143,41-60,female,right,True,midwest,0,lateafternoon,29,,55,lateafternoon
+129,28,41-60,female,right,True,midwest,0,earlyafternoon,34,earlymorning,67,earlymorning
+130,61,25-40,female,right,True,south,0,earlyafternoon,23,earlyafternoon,48,latemorning
+131,313,18-24,Female,Right,True,West,0,Early Afternoon,48,Early Afternoon,154,Early Afternoon
+132,31,41-60,male,right,True,midwest,0,lateevening,22,earlyevening,43,lateevening
+133,145,25-40,male,right,True,midwest,0,lateevening,27,latemorning,62,lateevening
+134,206,41-60,Female,Right,True,Midwest,0,Early Evening,45,Early Evening,80,Late Afternoon
+135,144,41-60,female,right,True,midwest,0,earlyafternoon,28,lateafternoon,64,lateafternoon
+136,189,18-24,Female,Right,True,Midwest,0,Late Morning,33,Late Evening,72,Early Afternoon
+137,202,25-40,Female,Right,True,West,0,Early Afternoon,60,Late Afternoon,250,Early Afternoon
+138,162,25-40,Female,Right,True,Midwest,0,Late Afternoon,76,Early Afternoon,116,Late Morning
+139,193,61+,Female,Right,True,West,0,Early Morning,32,Late Afternoon,58,Late Afternoon
+140,125,18-24,male,left,True,midwest,0,earlyevening,42,,82,earlyevening
