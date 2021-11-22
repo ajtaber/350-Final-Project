@@ -1,1 +1,2 @@
 ![Architecture](https://user-images.githubusercontent.com/47041711/142795643-938a865e-a6d5-49b4-b2a7-feb2e91f799e.png)
+Starting with data from the CSAFE Handwriting Database, the user stores the data in an Amazon AWS S3 Bucket. Then, using Amazon SageMaker, the user pulls the data from their created bucket. Using SageMaker, the user can send the data to be analyzed and returned by Amazon Textract. At this point, with results in their SageMaker instance, a user can look at their results and run tests with everything readily hosted in the AWS Cloud. 
